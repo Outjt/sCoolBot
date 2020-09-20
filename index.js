@@ -280,4 +280,4 @@ Ideas:
 - Level perks
 - Fights
 */
-client.login('NzU2MTk4NTg4NTQ3MDcyMTcy.X2OW0Q.1_Y7u9LQq8xe0C8NTaac8_5-x3I');
+client.login('NO');
